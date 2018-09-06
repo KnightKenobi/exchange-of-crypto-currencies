@@ -24,5 +24,6 @@ export default [
     'dgd_usd',
     'sys_usd',
     'tes_usd',
-    'sbit_usd'
+    'sbit_usd',
+    'btc_usd'
 ];
